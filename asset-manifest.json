@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google_Timmer/static/css/main.035e8e85.css",
+    "main.js": "/Google_Timmer/static/js/main.be196e71.js",
+    "index.html": "/Google_Timmer/index.html",
+    "main.035e8e85.css.map": "/Google_Timmer/static/css/main.035e8e85.css.map",
+    "main.be196e71.js.map": "/Google_Timmer/static/js/main.be196e71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035e8e85.css",
+    "static/js/main.be196e71.js"
+  ]
+}
